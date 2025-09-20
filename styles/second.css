@@ -1,0 +1,62 @@
+.second {
+	padding-bottom: 219px;
+}
+
+.second h2 {
+	margin-top: 143px;
+}
+
+.second .row-1 {
+	display: flex;
+	margin-top: 189px;
+	margin-left: 25px;
+}
+
+.second .row-2 {
+	display: flex;
+	margin-top: 113px;
+	margin-left: 25px;
+}
+
+.second .card {
+	width: 500px;
+	margin-right: 25px;
+	padding-bottom: 51px;
+}
+
+.second .plant{
+	height: 459px;
+	width: 459px;
+	margin-top: -115px;
+}
+
+.second h3 {
+	font-size: 38px;
+	margin-left: 40px;
+}
+
+.second .desc {
+	font-size: 24px;
+	margin-left: 40px;
+	margin-top: 37px;
+}
+
+.second .cost {
+	display: flex;
+	margin-top: 41px;
+}
+
+.second .rs {
+	font-size: 38px;
+	margin-left: 40px;
+}
+
+.second button {
+	margin-left: 141px;
+	padding: 14px;
+}
+
+.second .bag {
+	width: 27px;
+	height: 27px;
+}

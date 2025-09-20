@@ -1,0 +1,44 @@
+.third {
+	padding-bottom: 285px;
+}
+
+.third .row {
+	display: flex;
+	margin-top: 182px;
+	margin-left: 25px;
+}
+
+.third .card {
+	width: 400px;
+	margin-right: 25px;
+	padding: 50px;
+}
+
+.third .content {
+	display: flex;
+	text-align: center;
+}
+
+.third .ava {
+	width: 88px;
+	height: 88px;
+}
+
+.third .info {
+	margin-left: 38px;
+}
+
+.third .nick {
+	font-size: 38px;
+	margin-top: 7px;
+}
+
+.third .stars {
+	width: 131px;
+	height: 19px;
+}
+
+.third .text {
+	margin-top: 61px;
+	
+}

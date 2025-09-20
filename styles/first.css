@@ -1,0 +1,216 @@
+.first {
+	background-image: url("../images/first/bg.jpg");
+	background-size: cover;
+	padding-top: 57px;
+	padding-left: 57px;
+	padding-bottom: 100px;
+}
+
+.first header {
+	display: flex;
+}
+
+.first .icon {
+	width: 48px;
+	height: 48px;
+}
+
+.first .logo-text {
+	font-size: 28px;
+	font-weight: 900;
+	margin-top: 13px;
+	margin-left: 14px;
+}
+
+.first nav {
+	margin-left: 250px;
+}
+
+.first nav a {
+	font-size: 24px;
+	margin-left: 59px;
+}
+
+.first .search {
+	width: 26px;
+	height: 26px;
+	margin-left: 250px;
+	margin-right: 59px;
+}
+
+.first .bag {
+	width: 26px;
+	height: 26px;
+	margin-right: 59px;
+}
+
+.first .main-group {
+	margin-top: 162px;
+	width: 892px;
+}
+
+.first h1 {
+	font-size: 118px;
+}
+
+.first .main-group p {
+	font-size: 23px;
+}
+
+.first .main-group button{
+	padding: 15px 59px;
+}
+
+.first .main-group .button{
+	width: 196px;
+	height: 64px;
+	margin-left: 35px;
+	margin-top: 20px;
+}
+
+.first .card-1 {
+	width: 459px;
+	margin-left: 925px;
+	margin-top: -300px;
+	text-align: center;
+	padding-bottom: 41px;
+}
+
+.first .card-1 .plant-1 {
+	width: 459px;
+	height: 459px;
+	margin-top: -100px;
+}
+
+.first .card-1 .desc {
+	font-size: 23px;
+}
+
+.first .card-1 .name {
+	margin-top: 20px;
+	font-size: 38px;
+}
+
+.first .card-1 button {
+	padding: 15px 49px;
+	margin-top: 20px;
+}
+
+.first .card-comment {
+	width: 409px;
+	padding: 44px;
+	margin-top: -119px;
+}
+
+.first .card-comment .ava {
+	width: 207px;
+	height: 64px;
+}
+
+.first .card-comment p {
+	margin-top: 22px;
+}
+
+.first h2 {
+	margin-top: 160px;
+}
+
+.first .card-2 {
+	display: flex;
+	margin-top: 130px;
+	width: 1400px;
+}
+
+.first .card-2 .plant-2 {
+	width: 601px;
+	height: 732px;
+	margin-top: -200px;
+}
+
+.first .card-2 .content {
+	padding-top: 125px;
+	padding-right: 33px;
+}
+
+.first .card-2 h3 {
+	font-size: 38px;
+}
+
+.first .card-2 .text {
+	font-size: 20px;
+	margin-top: 24px;
+}
+
+.first .card-2 .rs {
+	font-size: 38px;
+	margin-top: 24px;
+}
+
+.first .card-2 .buttons {
+	margin-top: 24px;
+}
+
+.first .card-2 .explore {
+	padding: 15px 58px;;
+}
+
+.first .card-2 .bag-btn {
+	margin-left: 32px;
+	width: 64px;
+	padding: 15px;
+}
+
+.first .card-2 .bag {
+	width: 34px;
+	height: 34px;
+}
+
+.first .card-3 {
+	display: flex;
+	margin-top: 136px;
+	width: 1400px;
+}
+
+.first .card-3 .content {
+	padding-top: 125px;
+	padding-left: 33px;
+}
+
+.first .card-3 h3 {
+	font-size: 38px;
+}
+
+.first .card-3 .text {
+	font-size: 20px;
+	margin-top: 24px;
+}
+
+.first .card-3 .rs {
+	font-size: 38px;
+	margin-top: 24px;
+}
+
+.first .card-3 .buttons {
+	margin-top: 24px;
+}
+
+.first .card-3 .explore {
+	padding: 15px 58px;;
+}
+
+.first .card-3 .bag-btn {
+	margin-left: 32px;
+	width: 64px;
+	padding: 15px;
+}
+
+.first .card-3 .bag {
+	width: 34px;
+	height: 34px;
+}
+
+.first .card-3 .plant-3 {
+	width: 732px;
+	height: 732px;
+	margin-top: -200px;
+}

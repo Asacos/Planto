@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #192114;
+}
+
+p, a, h1, h2, h3 {
+	font-family: "Inter", sans-serif;
+	color: #FFFFFF;
+}
+
+button {
+	font-family: "Inter", sans-serif;
+	font-size: 28px;
+	color: #FFFFFF;
+	background: rgba(0, 0, 0, 0);
+	border: 1px solid #FFFFFF;
+	border-radius: 15px;
+}
+
+.card {
+	border-radius: 25px;
+	background: rgba(255,255,255,0.1);
+	backdrop-filter: blur(4px);
+}
+
+h2 {
+	text-align: center;
+	font-size: 55px;
+}
+
+span {
+	font-family: "Inter", sans-serif;
+	color: #FFFFFF;
+}

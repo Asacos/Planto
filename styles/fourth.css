@@ -1,0 +1,60 @@
+.fourth {
+	padding-bottom: 170px;
+}
+
+.fourth .card {
+	display: flex;
+	margin-left: 47px;
+	margin-top: 242px;
+	width: 1400px;
+}
+
+.fourth .plant {
+	width: 877px;
+	height: 877px;
+	margin-left: -100px;
+	margin-top: -100px;
+}
+
+.fourth .content {
+	padding-top: 135px;
+	padding-right: 53px;
+}
+
+.fourth h3 {
+	font-size: 38px;
+}
+
+.fourth p {
+	margin-top: 42px;
+}
+
+.fourth .buttons {
+	display: flex;
+	margin-top: 42px;
+}
+
+.fourth button {
+	padding: 15px 59px;
+}
+
+.fourth .buttons p {
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.fourth .left {
+	margin-left: 200px;
+	margin-right: 43px;
+}
+
+.fourth .right {
+	margin-left: 43px;
+}
+
+.fourth .hug {
+	width: 85px;
+	height: 11px;
+	margin-left: 700px;
+	margin-top: 133px;
+}
