@@ -5,6 +5,7 @@
 
 body {
 	background: #192114;
+	min-width: 1365px;
 }
 
 p, a, h1, h2, h3 {
